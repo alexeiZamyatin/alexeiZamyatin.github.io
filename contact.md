@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: Contacyt
+title: Contact
 tags: [contact]
 comments: false
 ---
