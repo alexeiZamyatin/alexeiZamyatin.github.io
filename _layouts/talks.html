@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<div class="post">
+    <p>These are talks I have given, other than paper presentations at academic conferences. Slides and videos are linked, where available.</p>
+    <ul class="post-list">
+    {% for talk in site.data.talks %}
+    <li>
+        <p>
+            <strong>{{ talk.title }}</strong>
+            {% for link in talk.links %}
+            [<a href="{{ link.href | relative_url }}">{{ link.text }}</a>]
+            {% endfor %}
+          <br />
+        <i>{{ talk.location }}</i>
+        <br />
+        {{ talk.date }}
+        </p>
+    </li>
+    {% endfor %}
+    </ul>
+    </div>
+</div>

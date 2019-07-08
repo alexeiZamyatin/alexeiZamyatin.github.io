@@ -1,21 +1,21 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: About me
+description: "Alexei Zamyatin's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
+I'm a PhD Student in the <a target="__blank" href="https://www.imperial.ac.uk/cryptocurrency"> Imperial College Centre for Cryptocurrency Research and Engineering (IC3RE)</a>, advised by <a target="__blank" href="http://www.imperial.ac.uk/people/w.knottenbelt">William Knottenbelt</a> and <a target="__blank" href="http://arthurgervais.com/"> Arthur Gervais</a>. 
+I'm also a researcher in the Decentralized Systems Group at <a target="__blank" href="https://www.sba-research.org/">SBA Research</a>. <br>	 
 
 <br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
+My main research interests revolve around security, interoperability and decentralization of cryptocurrencies. 
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+I'm a devoted tennis player and skier, and recently started scuba diving. I'm interested in history and passionate about astronomy.
 
+
+<br />
+You can also download my <a href="../cv.pdf" target="_blank">full CV</a>.

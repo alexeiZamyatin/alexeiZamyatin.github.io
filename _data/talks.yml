@@ -1,0 +1,63 @@
+- title: "Decentralized Mining Pools: Security and Attacks"
+  links:
+    - href: https://www.slideshare.net/AlexeiZamyatin/decentralized-mining-pools-security-and-attacks/AlexeiZamyatin/decentralized-mining-pools-security-and-attacks
+      text: Slides
+    - href: https://www.youtube.com/watch?v=DKOG0BQMmmg&t=25630s
+      text: Video
+  date: June 2019
+  location: Breaking Bitcoin Conference, Amsterdam
+  location_url: https://breaking-bitcoin.com/
+
+- title: Cryptocurrency-backed Assets
+  links:
+    - href: https://www.xclaim.io/files/xclaim-slides.pdf
+      text: Slides
+    - href: https://www.youtube.com/watch?v=ZICMrQ9H_yM
+      text: Video
+  date: March 2019
+  location: Ethereum Community Conference (EthCC), Paris
+  location_url: https://ethcc.io/
+
+- title: Interoperability with Cryptocurrency-backed Tokens
+  links:
+    - href: https://tokyo2018.scalingbitcoin.org/files/Day2/interoperability-with-cryptocurrency-backed-tokens.pdf
+      text: Slides
+    - href: https://youtu.be/FI9cwksTrQs?t=6410
+      text: Video
+  date: October 2018
+  location: Scaling Bitcoin, Tokyo
+  location_url: https://tokyo2018.scalingbitcoin.org/"
+
+- title: Velvet Forks
+  links:
+    - href: https://building-on-bitcoin.com/docs/slides/Alexei_Zamyatin_BoB_2018.pdf
+      text: Slides
+    - href: https://www.youtube.com/watch?v=jXvUa7oCaVs
+      text: Video
+  date: July 2018
+  location: Building on Bitcoin Conference, Lisbon
+  location_url: https://building-on-bitcoin.com/
+
+- title: "Lightning Talk: Revisiting Near Blocks for PoW Blockchains"
+  links:
+    - href: https://www.slideshare.net/AlexeiZamyatin/flux-revisiting-near-blocks-for-proofofwork-blockchains/AlexeiZamyatin/flux-revisiting-near-blocks-for-proofofwork-blockchains
+      text: Slides
+  date: June 2018
+  location: Summer Research Institute, École polytechnique fédérale de Lausanne, Lausanne
+  location_url: https://suri.epfl.ch/
+
+- title: "Lightning Talk: Blockchain Interoperability"
+  links:
+    - href: https://www.slideshare.net/secret/br7iVJgHfcbZTp
+      text: Slides
+  date: April 2018
+  location: Dagstuhl Seminar 18152, Blockchains, Smart Contracts and Future Applications
+  location_url: https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=18152
+
+- title: Towards a Generalised Blockchain Fabric
+  links:
+    - href: https://de.slideshare.net/AlexeiZamyatin/towards-a-generalised-blockchain-fabric-codeblock-2018"
+      text: Slides
+  date: March 2018
+  location: Code Block 2018 hosted by Blockchain.com, London
+  location_url: https://blog.blockchain.com/2018/02/27/code-block/
