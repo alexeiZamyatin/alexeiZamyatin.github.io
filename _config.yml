@@ -31,6 +31,8 @@ links:
     url: /publications/
   - title: Talks
     url: /talks/
+  - title: Projects
+    url: /projects/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Vienna

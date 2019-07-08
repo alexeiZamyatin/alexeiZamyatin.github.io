@@ -2,7 +2,7 @@
   papers:
     - title: "A Deep Dive into Bitcoin Mining Pools: An Empirical Analysis of Mining Shares"
       links:
-        - href: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_PDF_30.pdf"
+        - href: https://arxiv.org/pdf/1905.05999.pdf
           text: PDF
       authors:
         - Romiti M
