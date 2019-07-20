@@ -1,0 +1,165 @@
+- title: "Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies"
+  links:
+    - href: https://eprint.iacr.org/2019/775.pdf
+      text: PDF
+  authors:
+    - Judmayer A
+    - Stifter N
+    - Zamyatin A
+    - Tsabary I
+    - Eyal I
+    - Gazi P
+    - Meiklejohn S
+    - Weippl E
+  note: >
+    Cryptology ePrint Archiv, Report 2019/775
+  date: July 2019
+- title: "A Deep Dive into Bitcoin Mining Pools: An Empirical Analysis of Mining Shares"
+  links:
+    - href: https://arxiv.org/pdf/1905.05999.pdf
+      text: PDF
+  authors:
+    - Romiti M
+    - Judmayer A
+    - Zamyatin A
+    - Haselhofer B
+  note: >
+    Workshop on the Economics of Information Security (WEIS)
+  date: June 2019
+- title: "XCLAIM: Trustless, Interoperable Cryptocurrency-Backed Assets"
+  links:
+    - href: https://eprint.iacr.org/2018/643.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Harz D
+    - Lind J
+    - Panayiotou P
+    - Arthur G
+    - Knottenbelt WJ
+  note: >
+    IEEE Symposium on Security and Privacy (S&P)
+  date: May 2019
+- title: " Uncle Traps: Harvesting Rewards in a Queue-based Ethereum Mining Pool "
+  links:
+    - href: https://eprint.iacr.org/2019/070.pdf
+      text: PDF
+  authors:
+    - Werner S
+    - Pritz P
+    - Zamyatin A
+    - Knottenbelt WJ
+  note: >
+    EAI International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS)
+  date: March 2019
+- title: "Echoes of the Past: Recovering Blockchain Metrics From Merged Mining"
+  links:
+    - href: https://eprint.iacr.org/2018/1134.pdf
+      text: PDF
+  authors:
+    - Stifter N
+    - Schindler P
+    - Judmayer A
+    - Zamyatin A
+    - Kern A
+    - Weippl E
+  note: >
+    International Conference on Financial Cryptography and Data Security (FC)
+  date: February 2019
+- title: "Committing to Quantum Resistance: A Slow Defence for Bitcoin against a Fast Quantum Computing Attack"
+  links:
+    - href: http://rsos.royalsocietypublishing.org/content/royopensci/5/6/180410.full.pdf
+      text: PDF
+  authors:
+    - Stewart I
+    - Illie D
+    - Zamyatin A
+    - Werner S
+    - Torshizi MF
+    - Knottenbelt WJ
+  note: >
+    Royal Society Open Science 2018/5/180410; DOI - 10.1098/rsos.180410
+  date: June 2018
+- title: "Multisignatures for Cryptocurrency-Backed Tokens (Poster)"
+  links:
+    - href: assets/multisignatures-poster-abstract-pre-print.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Harz D
+    - Lind J
+    - Panayiotou P
+    - Arthur G
+    - Knottenbelt WJ
+  note: >
+    International Workshop on Cryptocurrencies and Blockchain Technology (CBT)
+  date: September 2018
+- title: "Agreement with Satoshi - On the Formalization of Nakamoto Consensus"
+  links:
+    - href: https://eprint.iacr.org/2018/400.pdf
+      text: PDF
+  authors:
+    - Stifter N
+    - Judmayer A
+    - Schindler P
+    - Zamyatin A
+    - Weippl E
+  note: >
+    Cryptology ePrint Archive, Report 2018/400
+  date: May 2018
+- title: "Flux: revisiting near blocks for proof-of-work blockchains"
+  links:
+    - href: https://eprint.iacr.org/2018/415.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Stifter N
+    - Schindler P
+    - Weippl E
+    - Knottenbelt WJ
+  note: >
+    Cryptology ePrint Archive: Report 2018/415
+  date: May 2018
+- title: "(Short Paper) A Wild Velvet Fork Appears! Inclusive Blockchain Protocol Changes in Practice"
+  links:
+    - href: https://eprint.iacr.org/2018/087.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Stifter N
+    - Judmayer A
+    - Schindler P
+    - Weippl E
+    - Knottenbelt WJ
+  note: >
+    Workshop on Bitcoin and Blockchain Research at Financial Cryptography and Data Security
+  date: March 2018
+- title: "Swimming with Fishes and Sharks: Beneath the Surface of Queue-based Ethereum Mining Pools"
+  links:
+    - href: https://www.sba-research.org/wp-content/uploads/publications/201709-%20AZAMYATIN%20-%20mascots-crc.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Wolter K
+    - Werner S
+    - Mulligan CEA
+    - Harrison PG, 
+    - Knottenbelt WJ
+  note: >
+    IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS)
+  date: September 2017
+- title: "Merged Mining: Curse or Cure?"
+  links:
+    - href: https://eprint.iacr.org/2017/791.pdf
+      text: PDF
+  authors:
+    - Judmayer A
+    - Zamyatin A
+    - Stifter N
+    - Voyiatzis AG
+    - Weippl E  
+  note: >
+    International Workshop on Cryptocurrencies and Blockchain Technology (CBT)
+  date: September 2017 
+
+

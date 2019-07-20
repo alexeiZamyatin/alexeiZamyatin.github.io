@@ -1,6 +1,34 @@
 ---
 layout: page
+sidebar: toc
 ---
+
+<ul class="biblist">
+  {% for paper in site.data.papers-chrono %}
+    <li><p>
+      <strong>{{ paper.title }}</strong>
+      {% for link in paper.links %}
+        [<a href="{{ link.href | relative_url }}">{{ link.text }}</a>]
+      {% endfor %}
+      <br />
+        {% for author in paper.authors %}
+          {%- if author == site.owner.pubname -%}
+            <strong>{{ author }}</strong>
+          {%- else -%}
+            {{ author }}
+          {%- endif -%}
+          {% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+        <br />
+        <i>{{ paper.note }}</i>
+        <br /> {{ paper.date }}
+        </p>
+    </li>
+  {% endfor %}
+</ul>
+
+
+{% comment %}
 
 {% for paper_type in site.data.papers %}
 <h2>{{ paper_type.title }}</h2>
@@ -28,3 +56,5 @@ layout: page
   {% endfor %}
 </ul>
 {% endfor %}
+
+{% endcomment %}
