@@ -57,11 +57,11 @@
         - href: http://rsos.royalsocietypublishing.org/content/royopensci/5/6/180410.full.pdf
           text: PDF
       authors:
+        - Stewart I
+        - Illie D
         - Zamyatin A
-        - Harz D
-        - Lind J
-        - Panayiotou P
-        - Arthur G
+        - Werner S
+        - Torshizi MF
         - Knottenbelt WJ
       note: >
         Royal Society Open Science 2018/5/180410; DOI - 10.1098/rsos.180410
@@ -78,7 +78,7 @@
         - Arthur G
         - Knottenbelt WJ
       note: >
-        nternational Workshop on Cryptocurrencies and Blockchain Technology (CBT)
+        International Workshop on Cryptocurrencies and Blockchain Technology (CBT)
       date: September 2018
     - title: "(Short Paper) A Wild Velvet Fork Appears! Inclusive Blockchain Protocol Changes in Practice"
       links:
