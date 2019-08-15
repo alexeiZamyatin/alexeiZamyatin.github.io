@@ -4,8 +4,11 @@ title: "SNARK Relay: A First Shot at Verifying Bitcoin TX Inclusion in ZKP"
 tags: [jupyter]
 ---
 
+
 <a href="https://github.com/dec3ntral/snark-relay" target="__blank">SNARK-relay</a> is a first shot at proving Bitcoin transaction inclusion inclusion on Ethereum more efficiently.
 
+<br>
+<strong>Github repo: </strong><a href="https://github.com/dec3ntral/snark-relay" target="__blank">https://github.com/dec3ntral/snark-relay</a>
 
 ## Quick Overview (more details soon)
 

@@ -3,10 +3,15 @@ layout: post
 title: Re-implementing BTC Relay in Solidity
 tags: [jupyter]
 ---
+Re-implementation of BTC Relay in Solidty, improving efficiency, architecture and fork handling.  
 
-Chain relays are on-chain programs or <i>smart contracts</i> deployed on a blockchain <i>A</i> capable of reading and verifying the state of another blockchain <i>B</i>. 
+<br>
+<strong>Github repo: </strong><a href="https://github.com/crossclaim/btcrelay-sol" target="__blank">https://github.com/crossclaim/btcrelay-sol</a>
+
 
 ## Chain Relays
+Chain relays are on-chain programs or <i>smart contracts</i> deployed on a blockchain <i>A</i> capable of reading and verifying the state of another blockchain <i>B</i>. 
+
 The underlying technical design and functionality is comparable to that of SPV-Clients. That is, a chain relay stores and maintains block headers of chain B on chain A and allows to verify transaction inclusion proofs. Summarizing, the two main functionalities a chain relay must/should provide are: <i>consensus verification</i> and <i>transaction inclusion verification</i>.
 
 Read more about chain relays in the <a href="https://eprint.iacr.org/2018/643.pdf">XCLAIM paper</a> (Section V.B descibes the basic concept of chain relays, while Appendix D provides a formal model of the required functionality for PoW chain relays.).  
