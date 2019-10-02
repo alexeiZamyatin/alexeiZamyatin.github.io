@@ -1,3 +1,15 @@
+- title: "SoK: Communication Across Distributed Ledgers"
+  links:
+    - href: https://eprint.iacr.org/2019/1128.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Al-Bassam M
+    - Zindros D
+    - Kokoris-Kogias E
+    - Moreno-Sanchez P
+    - Kiayias A
+    - Knottenbelt WJ
 - title: "Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies"
   links:
     - href: https://eprint.iacr.org/2019/775.pdf
