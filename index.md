@@ -15,12 +15,13 @@ I'm also a researcher in the Decentralized Systems Group at <a style="color:#003
 <br />
 
 My main research interests revolve around security, interoperability and decentralization of cryptocurrencies. 
-As such, my latest work focused on 
+Listed below are some of my latest projects: 
 <ul>
   <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/1128.pdf">Systematic exposition of communication across distributed ledgers</a></li>
-  <li> <a style="color:#003E74;" target="__blank" href="https://www.xclaim.io/">Trustless cross-chain communication via cryptocurrency-backed assets</a></li>
+  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2018/642.pdf">Secure and scalable off-chain payments via commit-chains</a></li>
   <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/775.pdf">Efficient, crowdfundable, cross-chain bribing attacks</a></li> 
   <li> <a style="color:#003E74;" target="__blank" href="/files/Decentralized_Mining-Security_and_Attacks.pdf">Security of decentralized mining pools</a></li>
+  <li> <a style="color:#003E74;" target="__blank" href="https://www.xclaim.io/">Trustless cross-chain communication via cryptocurrency-backed assets</a></li>
 </ul>
 
 <br />

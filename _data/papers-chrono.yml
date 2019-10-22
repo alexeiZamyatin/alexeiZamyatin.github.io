@@ -13,6 +13,19 @@
   note: >
     Cryptology ePrint Archiv, Report 2019/1128
   date: October 2019
+- title: "Commit-Chains: Secure, Scalable Off-Chain Payments"
+  links:
+    - href: https://eprint.iacr.org/2018/642.pdf
+      text: PDF
+  authors:
+    - Khalil R
+    - Zamyatin A
+    - Felley G
+    - Moreno-Sanchez P
+    - Gervais A
+  note: >
+    Cryptology ePrint Archiv, Report 2018/642
+  date: October 2019
 - title: "Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies"
   links:
     - href: https://eprint.iacr.org/2019/775.pdf
