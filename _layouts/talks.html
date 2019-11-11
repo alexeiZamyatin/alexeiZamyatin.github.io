@@ -13,7 +13,7 @@ layout: page
             [<a href="{{ link.href | relative_url }}">{{ link.text }}</a>]
             {% endfor %}
           <br />
-        <i>{{ talk.location }}</i>
+        <i><a href="{{ talk.location_url }}">{{ talk.location }}</a></i>
         <br />
         {{ talk.date }}
         </p>
