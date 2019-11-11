@@ -9,7 +9,6 @@ image:
 
 <div>
 I'm a PhD Student in the <a style="color:#003E74;" target="__blank" href="https://www.imperial.ac.uk/cryptocurrency"> Imperial College Centre for Cryptocurrency Research and Engineering (IC3RE)</a>, advised by <a style="color:#003E74;" target="__blank" href="http://www.imperial.ac.uk/people/w.knottenbelt">William Knottenbelt</a> and <a style="color:#003E74;" target="__blank" href="http://arthurgervais.com/"> Arthur Gervais</a>. 
-I'm also a researcher in the Decentralized Systems Group at <a style="color:#003E74;" target="__blank" href="https://www.sba-research.org/">SBA Research</a>. 
 
 <br />
 <br />
