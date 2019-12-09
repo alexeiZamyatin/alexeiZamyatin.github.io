@@ -6,10 +6,11 @@ tags: [contact]
 comments: false
 ---
 
-<h3>{{ site.owner.name }}</h3>
-<p>{{ site.owner.bio }}</p>
+<p>You can reach me via 
+<a style="font-size: 18px !important;" href="mailto:{{ site.owner.email }}" class="" target="_blank"><i class="fa fa-envelope-square"></i> e-Mail</a>
 
-<br />
+or check out one of my online profiles:</p>
+
 {% if site.owner.twitter %}<a style="font-size: 18px !important;" href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>{% endif %}
 {% if site.owner.google_scholar %}<a style="font-size: 18px !important;" href="http://scholar.google.es/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i>&nbsp; G. Scholar</a>{% endif %}
 {% if site.owner.facebook %}<a style="font-size: 18px !important;" href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>{% endif %}
@@ -23,5 +24,4 @@ comments: false
 {% if site.owner.pinterest %}<a style="font-size: 18px !important;" href="http://www.pinterest.com/{{ site.owner.pinterest }}" class="author-social" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a>{% endif %}
 {% if site.owner.foursquare %}<a style="font-size: 18px !important;" href="http://foursquare.com/{{ site.owner.foursquare }}" class="author-social" target="_blank"><i class="fa fa-foursquare"></i> Foursquare</a>{% endif %}
 {% if site.owner.steam %}<a style="font-size: 18px !important;" href="http://steamcommunity.com/id/{{ site.owner.steam }}" class="author-social" target="_blank"><i class="fa fa-steam-square"></i> Steam</a>{% endif %}
-{% if site.owner.email %}<a style="font-size: 18px !important;" href="mailto:{{ site.owner.email }}" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> e-Mail</a>{% endif %}
 {% if site.owner.google_plus %}<a style="font-size: 18px !important;" href="http://plus.google.com/{{ site.owner.google_plus }}" class="author-social" target="_blank"><i class="fa fa-google-plus-square"></i> Google+</a>{% endif %}
