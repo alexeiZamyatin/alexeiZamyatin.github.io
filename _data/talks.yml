@@ -2,7 +2,18 @@
   date: October 2019
   location: Ethereum Devcon 5, Osaka
   location_url: https://devcon.org/
+  links:
+    - href: https://eprint.iacr.org/2019/1128
+      text: Ref. paper
   
+- title: "Pay-To-Win: Incentive Attacks on PoW Cryptocurrencies"
+  date: October 2019
+  location: Devcon 5 Research Meetup, Osaka
+  location_url: https://www.offdevcon.com/events/devcon5-blockchain-research-meetup
+  links: 
+    - href: files/Pay-to-Win_slides.pdf
+      text: Slides
+
 - title: "Decentralized Mining Pools: Security and Attacks"
   links:
     - href: https://www.slideshare.net/AlexeiZamyatin/decentralized-mining-pools-security-and-attacks/AlexeiZamyatin/decentralized-mining-pools-security-and-attacks
