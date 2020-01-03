@@ -16,11 +16,11 @@ I'm a PhD Student in the <a style="color:#003E74;" target="__blank" href="https:
 My main research interests revolve around security, interoperability and decentralization of cryptocurrencies. 
 Listed below are some of my latest projects: 
 <ul>
-  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/1128.pdf">Systematic exposition of communication across distributed ledgers</a></li>
-  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2018/642.pdf">Secure and scalable off-chain payments via commit-chains</a></li>
-  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/775.pdf">Efficient, crowdfundable, cross-chain bribing attacks</a></li> 
-  <li> <a style="color:#003E74;" target="__blank" href="https://www.youtube.com/watch?v=NWG7HZVT00M&t=379s">Security of decentralized mining pools</a></li>
-  <!--<li> <a style="color:#003E74;" target="__blank" href="https://www.xclaim.io/">Trustless cross-chain communication via cryptocurrency-backed assets</a></li>-->
+  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/1128.pdf">SoK: Communication Across Distributed Ledgers</a></li>
+  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2018/642.pdf">Commit Chains: Secure and Scalable Off-Chain Payments</a></li>
+  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/775.pdf">Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies</a></li> 
+  <!-- <li> <a style="color:#003E74;" target="__blank" href="https://www.youtube.com/watch?v=NWG7HZVT00M&t=379s">Security of decentralized mining pools</a></li>-->
+  <li> <a style="color:#003E74;" target="__blank" href="https://www.xclaim.io/">XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets</a></li>
 </ul>
 
 <br />
