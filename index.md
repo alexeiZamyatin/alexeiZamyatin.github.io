@@ -10,6 +10,8 @@ image:
 <div>
 I'm a PhD Student in the <a style="color:#003E74;" target="__blank" href="https://www.imperial.ac.uk/cryptocurrency"> Imperial College Centre for Cryptocurrency Research and Engineering (IC3RE)</a>, advised by <a style="color:#003E74;" target="__blank" href="http://www.imperial.ac.uk/people/w.knottenbelt">William Knottenbelt</a> and <a style="color:#003E74;" target="__blank" href="http://arthurgervais.com/"> Arthur Gervais</a>. 
 
+<br/>
+I recently co-founded <a style="color:#003E74;" target="__blank" href="https://www.interlay.io">Interlay</a>, a R&D company focusing on blockchain interoperability, and act as CEO.
 <br />
 <br />
 
@@ -33,3 +35,20 @@ I'm a devoted tennis player and skier, and recently started scuba diving. I'm in
 
 You can also download my <a style="color:#003E74;" href="../cv.pdf" target="_blank">full CV</a>.
 </div>
+
+<!--
+<h1>News</h1>
+
+<div>
+    <dl>
+    {% for update in site.data.news %}
+    <dt>
+    <strong>{{update.date}}</strong>
+    </dt>
+    <dd>
+      {{ update.content }}
+    </dd>
+    </dl>
+    {% endfor %}
+</div>
+-->
