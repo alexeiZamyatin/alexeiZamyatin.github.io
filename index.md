@@ -8,7 +8,7 @@ image:
 ---
 
 <div>
-I'm a PhD Student in the <a style="color:#003E74;" target="__blank" href="https://www.imperial.ac.uk/cryptocurrency"> Imperial College Centre for Cryptocurrency Research and Engineering (IC3RE)</a>, advised by <a style="color:#003E74;" target="__blank" href="http://www.imperial.ac.uk/people/w.knottenbelt">William Knottenbelt</a> and <a style="color:#003E74;" target="__blank" href="http://arthurgervais.com/"> Arthur Gervais</a>. 
+I'm a PhD student in the <a style="color:#003E74;" target="__blank" href="https://www.imperial.ac.uk/cryptocurrency"> Imperial College Centre for Cryptocurrency Research and Engineering (IC3RE)</a>, advised by <a style="color:#003E74;" target="__blank" href="http://www.imperial.ac.uk/people/w.knottenbelt">William Knottenbelt</a> and <a style="color:#003E74;" target="__blank" href="http://arthurgervais.com/"> Arthur Gervais</a>. 
 
 <br/>
 I recently co-founded <a style="color:#003E74;" target="__blank" href="https://www.interlay.io">Interlay</a>, a R&D company focusing on blockchain interoperability, and act as CEO.
@@ -16,9 +16,9 @@ I recently co-founded <a style="color:#003E74;" target="__blank" href="https://w
 <br />
 
 My main research interests revolve around security, interoperability and decentralization of cryptocurrencies. 
-Listed below are some of my latest projects: 
+Listed below are some of the research projects I worked on lately: 
 <ul>
-  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/1128.pdf">SoK: Communication Across Distributed Ledgers</a></li>
+  <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/1128.pdf">Survey and Impossibility of Cross-Chain Communication</a></li>
   <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2018/642.pdf">Commit Chains: Secure and Scalable Off-Chain Payments</a></li>
   <li> <a style="color:#003E74;" target="__blank" href="https://eprint.iacr.org/2019/775.pdf">Pay-To-Win: Incentive Attacks on Proof-of-Work Cryptocurrencies</a></li> 
   <!-- <li> <a style="color:#003E74;" target="__blank" href="https://www.youtube.com/watch?v=NWG7HZVT00M&t=379s">Security of decentralized mining pools</a></li>-->
