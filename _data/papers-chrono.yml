@@ -1,3 +1,27 @@
+- title: "TxChain: Efficient Cryptocurrency Light Clients via Contingent Transaction Aggregation"
+  links:
+    - href: https://eprint.iacr.org/2020/580.pdf
+      text: PDF
+  authors:
+    - Zamyatin A
+    - Avarikioti Z
+    - Perez D
+    - Knottenbelt WJ
+  note: >
+    Cryptology ePrint Archive: Report 2020/580
+  date: May 2020
+- title: "Promise: Leveraging Future Gains for Collateral Reduction"
+  links:
+    - href: https://eprint.iacr.org/2020/532.pdf
+      text: PDF
+  authors:
+    - Harz D
+    - Lewis Gudgeon
+    - Rami Khalil
+    - Zamyatin A
+  note: >
+    International Conference on Mathematical Research for Blockchain Economy
+  date: May 2020
 - title: "SoK: Communication Across Distributed Ledgers"
   links:
     - href: https://eprint.iacr.org/2019/1128.pdf
